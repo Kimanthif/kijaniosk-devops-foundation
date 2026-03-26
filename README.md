@@ -1,1 +1,0 @@
-# kijaniosk-devops-foundation
